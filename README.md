@@ -1,7 +1,5 @@
 # LeetCode solutions
 
-## LeetCode Algorithm
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/?envType=daily-question&envId=2024-12-16) | [Java](/java/FinalArrayState.java) | Easy |
