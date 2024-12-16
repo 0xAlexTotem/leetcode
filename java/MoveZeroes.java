@@ -1,7 +1,6 @@
 package java;
 
 public class MoveZeroes {
-
     public class Solution {
         public void moveZeroes(int[] nums) {
             int left = 0;

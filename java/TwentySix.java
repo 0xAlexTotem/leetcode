@@ -1,7 +1,6 @@
 package java;
 
 public class TwentySix {
-
     public class Solution {
         public int removeDuplicates(int[] nums) {
             // exeption
