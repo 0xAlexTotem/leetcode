@@ -1,0 +1,24 @@
+package java;
+
+public class CountGoodTriplets {
+    class Solution {
+        public int countGoodTriplets(int[] arr, int a, int b, int c) {
+            int ans = 0;
+            int l = arr.length;
+            
+            for (int i = 0; i < l-2; i++) {
+                for (int j = i+1; j < l-1; j++) {
+                    for (int k = j+1; k < l; k++) {
+                        if (!(Math.abs(arr[i] - arr[j]) <= a)) continue;
+                        if (!(Math.abs(arr[j] - arr[k]) <= b)) continue;
+                        if (!(Math.abs(arr[i] - arr[k]) <= c)) continue;
+
+                        ans++;
+                    }
+                }
+            }
+
+            return ans;
+        }
+    }
+}
