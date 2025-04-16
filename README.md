@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | [Java](java/FindCountGoodIntegers.java) | Hard |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/?envType=daily-question&envId=2024-12-16) | [Java](/java/FinalArrayState.java) | Easy |
+| 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description) | [Java](java/CountGoodSubArrays.java) | Medium |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/?envType=daily-question&envId=2024-12-17) | [Java](/java/RepeatLimitedString.java) | Medium |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array) | [Golang](/golang/countNicePairs.go) | Medium |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays) | [Golang](/golang/arithmeticSubarrays.go) | Medium |
